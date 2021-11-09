@@ -1,0 +1,5 @@
+step1: take two strings
+step2: sort both of them
+step3: now compare both of them
+step4: if both of them are equal then return zero
+step5: otherwise return false
