@@ -33,3 +33,18 @@ Js me funtions objects
 React me states props components data flow life cycle methods
 node ka runtime bhi puch liya tha
 component lifecyles
+
+Html tag attributes
+Css selector
+Diff between block and inline
+JavaScript Hoisting
+Event Loop
+Flex box
+Transition css
+Animation css
+JavaScript
+React
+Hooks
+Components difference
+Life cycle
+Redux
