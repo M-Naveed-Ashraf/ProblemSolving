@@ -48,3 +48,16 @@ Hooks
 Components difference
 Life cycle
 Redux
+
+why use the Redux
+3+2+'7' or 3+2+'7'+4
+how to pass the prop from one array component to another component
+you have a ball that can be breakable check the * of ball from 1-10 floor? how can you check that?
+(mtlb kis floor se ball phenke to break ni hogi)
+purpose of 'this'
+== and ===
+prevState in useState hook
+sorting algorithm in the array
+null, undeclared, undefined
+typeof
+console.log(typeof(b), b!=='object')
