@@ -51,6 +51,7 @@ Redux
 
 why use the Redux
 3+2+'7' or 3+2+'7'+4
+Useeffect ka second argument array ki form ma hota h? what's the purpose of this dependency array.
 how to pass the prop from one array component to another component
 you have a ball that can be breakable check the * of ball from 1-10 floor? how can you check that?
 (mtlb kis floor se ball phenke to break ni hogi)
