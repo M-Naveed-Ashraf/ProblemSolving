@@ -62,3 +62,13 @@ sorting algorithm in the array
 null, undeclared, undefined
 typeof
 console.log(typeof(b), b!=='object')
+
+sab se 1st pe inheritance and polymorphisim ka question kea
+then, move to Js,
+prototyping
+Js mn semicolons lgana zruri hn k nhi
+aik code given tha and uski output btani thi
+then move to React, Class component, functional component ka difference
+states and props
+how  to use states in functional component
+arrays
