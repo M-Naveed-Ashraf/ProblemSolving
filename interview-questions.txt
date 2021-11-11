@@ -73,3 +73,13 @@ states and props
 how  to use states in functional component
 arrays
 last mn 2 arrays given thi, [1,2,3,4,5]   [1,2,3,4,5,6] ... in mn se extra element find kran hai
+
+functional vs class based components
+can you pass a state from a child component to parent component
+prototype inheritence in oop
+if you have two arrays and one of them has an extra value so how can you find the different value
+semicolons are important in JS?
+if you don't use semicolons... can the code will be unreached?
+state functional comonent m introduce hoi ya class based component m
+PUT vs POST
+polymorphism vs inheritence 
