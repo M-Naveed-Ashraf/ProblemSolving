@@ -72,3 +72,4 @@ then move to React, Class component, functional component ka difference
 states and props
 how  to use states in functional component
 arrays
+last mn 2 arrays given thi, [1,2,3,4,5]   [1,2,3,4,5,6] ... in mn se extra element find kran hai
